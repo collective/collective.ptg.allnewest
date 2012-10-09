@@ -7,6 +7,12 @@ Installs all and the newest truegalleries
 Changelog
 =========
 
+1.0.2 (2012.10.09)
+
+-----------------
+- collective.ptg.easyslider = 0.4
+
+
 1.0.1 (2012.10.05)
 
 -----------------
