@@ -7,6 +7,15 @@ Installs all and the newest truegalleries
 Changelog
 =========
 
+1.0.3 (2012.10.15)
+-----------------
+- collective.ptg.garagedoor = 0.1
+
+1.0.2 (2012.10.10)
+-----------------
+- collective.ptg.gallerific = 1.1
+
+
 1.0.2 (2012.10.09)
 
 -----------------
