@@ -7,7 +7,7 @@ Installs all and the newest truegalleries
 Changelog
 =========
 
-1.0.4 (2012.10.18)
+1.0.5 (2012.10.18)
 ------------------
 - collective.ptg.galleria = 1.2
 
