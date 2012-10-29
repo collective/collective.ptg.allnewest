@@ -7,12 +7,11 @@ Installs all and the newest truegalleries
 Changelog
 =========
 
-1.0.7 (2012.10.29)
+1.0.8 (2012.10.29)
 ------------------
 - collective.ptg.contactsheet = 1.1.1
 - collective.ptg.presentation = 1.1
 - collective.ptg.highslide = 1.1
-
 
 
 1.0.6 (2012.10.29)
