@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '1.0.7'
+version = '1.0.8'
 
 setup(name='collective.ptg.allnewest',
       version=version,
@@ -31,11 +31,11 @@ setup(name='collective.ptg.allnewest',
           'collective.ptg.galleria  ==  1.2',
           'collective.ptg.galleriffic == 1.1',
           'collective.ptg.garagedoor == 0.1',
-          'collective.ptg.highslide == 1.0.3',
+          'collective.ptg.highslide == 1.1.1',
           'collective.ptg.nivogallery == 1.1',
           'collective.ptg.nivoslider == 1.0.6',
           'collective.ptg.pikachoose == 1.0.4',
-          'collective.ptg.presentation  == 1.0.5',
+          'collective.ptg.presentation  == 1.1.1',
           'collective.ptg.s3slider  == 1.0.8',
           'collective.ptg.scrollable == 0.2',
           'collective.ptg.sheetgallery == 1.1.1',
