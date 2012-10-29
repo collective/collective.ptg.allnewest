@@ -7,6 +7,10 @@ Installs all and the newest truegalleries
 Changelog
 =========
 
+1.0.7 (2012.10.29)
+------------------
+- collective.ptg.contactsheet = 1.1.1
+
 1.0.6 (2012.10.29)
 ------------------
 - collective.ptg.thumbnailzoom = 1.0.5 
