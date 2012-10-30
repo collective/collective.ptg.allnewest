@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '1.0.8'
+version = '1.0.8.1'
 
 setup(name='collective.ptg.allnewest',
       version=version,
