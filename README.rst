@@ -2,10 +2,17 @@ Introduction
 ============
 
 Installs all and the newest truegalleries
+This package installs alpha versions, so beware.
 
 
 Changelog
 =========
+
+1.2 (2012.10.31)
+--------------------
+- added collective.ptg.quicksand
+- updated a lot of the others
+
 
 1.1 (2012.10.31)
 --------------------

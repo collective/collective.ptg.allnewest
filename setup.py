@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '1.1.2'
+version = '1.2'
 
 setup(name='collective.ptg.allnewest',
       version=version,
@@ -22,11 +22,11 @@ setup(name='collective.ptg.allnewest',
       include_package_data=True,
       zip_safe=False,
       install_requires=[
-          'collective.plonetruegallery',
+          'collective.plonetruegallery >= 3.2a1',
           'collective.ptg.carousel  == 0.2.2',
-          'collective.ptg.contactsheet == 1.1.1',
+          'collective.ptg.contactsheet == 1.1.2',
           'collective.ptg.contentflow == 1.0.3',
-          'collective.ptg.easyslider == 0.4',
+          'collective.ptg.easyslider == 0.5.1',
           'collective.ptg.fancybox == 1.0.3',
           'collective.ptg.galleria  ==  1.2',
           'collective.ptg.galleriffic == 1.1',
@@ -36,13 +36,15 @@ setup(name='collective.ptg.allnewest',
           'collective.ptg.nivoslider == 1.0.6',
           'collective.ptg.pikachoose == 1.0.4',
           'collective.ptg.presentation  == 1.1',
-          'collective.ptg.s3slider  == 1.0.8',
-          'collective.ptg.scrollable == 0.2',
-          'collective.ptg.sheetgallery == 1.1.1',
-          'collective.ptg.simplegallery == 0.4.2',
+          'collective.ptg.quicksand  == 0.1',
+          'collective.ptg.s3slider  == 1.1',
+          'collective.ptg.scrollable == 0.3',
+          'collective.ptg.sheetgallery == 1.2',
+          'collective.ptg.simplegallery == 0.5.4',
           'collective.ptg.supersized == 1.0.4',
           'collective.ptg.thumbnailzoom  == 1.0.5.1',
           'collective.ptg.uigallery == 0.1.1',
+          'collective.ptg.quicksand == 0.1.3',
           'setuptools',
       ],
       entry_points="""
