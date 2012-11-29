@@ -8,6 +8,10 @@ This package installs alpha versions, so beware.
 Changelog
 =========
 
+1.2.3 (2012.10.31)
+--------------------
+- added shufflegallery
+
 1.2 (2012.10.31)
 --------------------
 - added collective.ptg.quicksand
