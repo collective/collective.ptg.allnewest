@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '1.2'
+version = '1.2.1'
 
 setup(name='collective.ptg.allnewest',
       version=version,
@@ -44,7 +44,7 @@ setup(name='collective.ptg.allnewest',
           'collective.ptg.supersized == 1.0.4',
           'collective.ptg.thumbnailzoom  == 1.0.5.1',
           'collective.ptg.uigallery == 0.1.1',
-          'collective.ptg.quicksand == 0.1.3',
+          'collective.ptg.quicksand',
           'setuptools',
       ],
       entry_points="""
