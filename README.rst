@@ -8,6 +8,12 @@ This package installs alpha versions, so beware.
 Changelog
 =========
 
+
+1.2.4 (2014.08.24)
+--------------------
+- Updated supersized version
+
+
 1.2.3 (2012.10.31)
 --------------------
 - added shufflegallery
