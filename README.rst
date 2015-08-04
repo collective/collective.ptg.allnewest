@@ -9,6 +9,18 @@ Changelog
 =========
 
 
+1.2.7 (2015.08.04)
+--------------------
+- Updated quicksand version
+
+ 
+=========
+1.2.6 (2013.04.12)
+--------------------
+- added collective.ptg.galleryimage
+
+
+
 1.2.4 (2014.08.24)
 --------------------
 - Updated supersized version
